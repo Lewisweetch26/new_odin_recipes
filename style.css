@@ -1,0 +1,22 @@
+* {
+    background-color: lightsteelblue;
+    /* border: 2px solid red; */
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px 10px 10px;}
+.logo {
+    height: 80px;
+    width: auto;}
+.nav-bar{
+    display: flex;
+    font-size: 30px;
+    max-width: 700px;
+    gap: 30px;
+    align-items: center;
+
+}
